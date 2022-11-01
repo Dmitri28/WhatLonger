@@ -1,0 +1,13 @@
+E:\проект на c#\WhatIsLongger\WhatIsLongger\bin\Debug\netcoreapp3.1\WhatIsLongger.exe
+E:\проект на c#\WhatIsLongger\WhatIsLongger\bin\Debug\netcoreapp3.1\WhatIsLongger.deps.json
+E:\проект на c#\WhatIsLongger\WhatIsLongger\bin\Debug\netcoreapp3.1\WhatIsLongger.runtimeconfig.json
+E:\проект на c#\WhatIsLongger\WhatIsLongger\bin\Debug\netcoreapp3.1\WhatIsLongger.runtimeconfig.dev.json
+E:\проект на c#\WhatIsLongger\WhatIsLongger\bin\Debug\netcoreapp3.1\WhatIsLongger.dll
+E:\проект на c#\WhatIsLongger\WhatIsLongger\bin\Debug\netcoreapp3.1\WhatIsLongger.pdb
+E:\проект на c#\WhatIsLongger\WhatIsLongger\obj\Debug\netcoreapp3.1\WhatIsLongger.GeneratedMSBuildEditorConfig.editorconfig
+E:\проект на c#\WhatIsLongger\WhatIsLongger\obj\Debug\netcoreapp3.1\WhatIsLongger.AssemblyInfoInputs.cache
+E:\проект на c#\WhatIsLongger\WhatIsLongger\obj\Debug\netcoreapp3.1\WhatIsLongger.AssemblyInfo.cs
+E:\проект на c#\WhatIsLongger\WhatIsLongger\obj\Debug\netcoreapp3.1\WhatIsLongger.csproj.CoreCompileInputs.cache
+E:\проект на c#\WhatIsLongger\WhatIsLongger\obj\Debug\netcoreapp3.1\WhatIsLongger.dll
+E:\проект на c#\WhatIsLongger\WhatIsLongger\obj\Debug\netcoreapp3.1\WhatIsLongger.pdb
+E:\проект на c#\WhatIsLongger\WhatIsLongger\obj\Debug\netcoreapp3.1\WhatIsLongger.genruntimeconfig.cache
